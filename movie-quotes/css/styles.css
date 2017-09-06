@@ -1,0 +1,37 @@
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+body 
+		{
+			color:black;
+		} 
+		p {
+			color:green;
+		}
+
+		p span{
+			color:orange;
+		}
+
+		p span.second_span{
+			color:purple;
+		}
+		p span.third_span{
+			color:blue;
+		}
+		p span.fourth_span{
+			color:black;
+		}
+		p span.fifth_span{
+			color:yellow;
+		}
+
+		div{
+			align-content: left;
+			margin-left: 200px
+
+		}
+		
