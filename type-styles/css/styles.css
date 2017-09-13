@@ -1,0 +1,109 @@
+body{
+	font-family: 'Ubuntu', sans-serif;
+}
+div{
+	text-indent: 50px;
+}
+h1{
+	font-size: 60px;
+	font-family: 'Ubuntu', sans-serif;
+}
+h2{
+	font-size:18px;
+	font-family: 'Helvetica', sans-serif;
+}
+p{
+	font-size:16px;
+	font-family: 'Helvetica', sans-serif;
+}
+
+h3{
+	font-family: 'Helvetica', sans-serif;
+	color: grey;
+	font-size: 30px;
+}
+span{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+}
+p span.bold{
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 800;
+	font-size: 24px;
+}
+p span.italic{
+	font-family: 'Ubuntu', sans-serif;
+	font-style: italic;
+	font-size: 24px;
+}
+p span.spacing{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+	letter-spacing:.3em;
+}
+p span.spacing2{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+	letter-spacing:-.06em;
+}
+p span.underline{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+	text-decoration: underline;
+}
+p span.linethrough{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+	text-decoration: line-through;
+}
+p span.overline{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+	text-decoration: overline;
+}
+p span.upper{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+	text-transform: uppercase;
+}
+p span.lower{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+	text-transform: lowercase;
+}
+p span.cap{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+	text-transform: capitalize;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
