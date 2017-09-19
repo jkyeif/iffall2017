@@ -1,0 +1,42 @@
+h1,h2{
+	color: yellow;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+}
+h3{
+	font-family: 'Oswald', sans-serif;
+	color:orange;
+	text-align:center;
+}
+body {
+	background-color: black;
+	color:white;
+	font-family: 'Helvetica', sans-serif;
+	}
+	p {
+			color:gold;
+			font-family: 'Helvetica', sans-serif;
+		}
+
+		span{
+			color:red;
+			font-family: 'Lobster', cursive;
+		}
+		span.second_span{
+			color:white;
+			font-size: 120%;
+		}
+		span.third_span{
+			color:white;
+			font-size: 150%
+		}
+		span.fourth_span{
+			color:white;
+			font-size: 200%
+		}
+		div{
+			text-align:center;
+		}
+	
+		
+	
