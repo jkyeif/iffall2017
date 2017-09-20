@@ -44,14 +44,13 @@ h2{
 	font-style: italic;
 }
 
-}
- .selected a{
- 	font-weight: bold;
- 	color:black;
 
+ .selected a{
+ 	font-weight:bold;
+ 	color:black;
  }
 
- .seasons li:last-child:after {
+.seasons li:last-child:after {
  	content:"*";
  }
 
