@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html><head>
+		<title>Image Format Comparisons</title>
+		<style>
+			body {
+				font-family: "Arial", sans-serif;
+				padding: 30px;
+			}
+
+			h1 {
+				margin: 0 0 6px 0;
+			}
+
+			h2 {
+				margin: 0 0 30px 0;
+			}
+
+			table {
+			}
+
+			td, th {
+				background-color: #eee;
+				padding: 30px;
+				margin: 2px;
+				text-align: center;
+				vertical-align: middle;
+			}
+
+			.blank {
+				background-color: transparent;
+			}
+
+			.label {
+				background-color: #3997b6;
+				color: #fff;
+				font-weight: bold;
+				font-size: 16px;
+			}
+
+			.label.optimized {
+				background-color: #39b64e;
+			}
+
+			.note {
+				font-size: 14px;
+				font-weight: normal;
+				font-style: italic;
+			}
+
+			div.note {
+				margin-top: 5px;
+			}
+
+			img {
+				width: 300px;
+				height: 300px;
+			}
+
+		</style>
+	</head>
+	<body>
+
+		<h1>Image Optimization Grid</h1>
+		<h2>James Fawcett</h2>
+
+		<table>
+			<tbody><tr>
+				<td class="label">Original</td>
+				<td><img src="images/sign_original.jpg" alt="Sign - Original"><div class="note">115KB</div></td>
+				<td><img src="images/aziz_original.jpg" alt="Aziz - Original"><div class="note">91.2KB</div></td>
+				<td><img src="images/wings_original.jpg" alt="Wings - Original"><div class="note">5.08KB</div></td>
+			</tr>
+			<tr>
+				<td class="label">GIF 16 <span class="note">(with transparency)</span></td>
+				<td><img src="gifs/sign_gif16.gif" alt="Sign - GIF"><div class="note">83KB</div></td>
+				<td><img src="gifs/aziz_gif16.gif" alt="Aziz - GIF"><div class="note">50KB</div></td>
+				<td><img src="gifs/wings_gif16.gif" alt="Wings - GIF"><div class="note">25KB</div></td>
+			</tr>
+			<tr>
+				<td class="label">GIF 256 <span class="note">(with transparency)</span></td>
+				<td><img src="gifs/sign_gif256.gif" alt="Sign - GIF"><div class="note">249KB</div></td>
+				<td><img src="gifs/aziz_gif256.gif" alt="Aziz - GIF"><div class="note">247KB</div></td>
+				<td><img src="gifs/wings_gif256.gif" alt="Wings - GIF"><div class="note">84KB</div></td>
+			</tr>
+			<tr>
+				<td class="label">JPEG Low <span class="note">(10%)</span></td>
+				<td><img src="images/sign_low.jpg" alt="Sign - low"><div class="note">182KB</div></td>
+				<td><img src="images/aziz_low.jpg" alt="Aziz - low"><div class="note">161KB</div></td>
+				<td><img src="images/wings_low.jpg" alt="Wings - low"><div class="note">81KB</div></td>
+
+			</tr>
+			<tr>
+				<td class="label">JPEG Very High <span class="note">(80%)</span></td>
+				<td><img src="images/sign_high.jpg" alt="Sign - High"><div class="note">200KB</div></td>
+				<td><img src="images/aziz_high.jpg" alt="Aziz - High"><div class="note">175KB</div></td>
+				<td><img src="images/wings_high.jpg" alt="Wings - High"><div class="note">91KB</div></td>
+			</tr>
+			<tr>
+				<td class="label">PNG-8</td>
+				<td><img src="images/sign_png8.png" alt="Sign - PNG-8"><div class="note">300KB</div></td>
+				<td><img src="images/aziz_png8.png" alt="Aziz - PNG-8"><div class="note">306KB</div></td>
+				<td><img src="images/wings_png8.png" alt="Wings - PNG-8"><div class="note">60KB</div></td>
+			</tr>
+			<tr>
+				<td class="label">PNG-24 <span class="note">(without transparency)</span></td>
+				<td><img src="images/sign_png24.png" alt="Sign - PNG-24"><div class="note">400KB</div></td>
+				<td><img src="images/aziz_png24.png" alt="Aziz - PNG-24"><div class="note">483KB</div></td>
+				<td><img src="images/wings_png24.png" alt="Wings - PNG-24"><div class="note">399KB</div></td>
+			</tr>
+			<tr>
+				<td class="label">PNG-24 <span class="note">(with transparency)</span></td>
+				<td><img src="images/sign_transparency.png" alt="Sign - PNG-24"><div class="note">311KB</div></td>
+				<td><img src="images/aziz_transparency.png" alt="Sign - PNG-24"><div class="note">295KB</div></td>
+				<td><img src="images/wings_transparency.png" alt="Sign - PNG-24"><div class="note">56KB</div></td>
+
+			</tr>
+			<tr>
+				<td class="label">SVG</td>
+				<td><img src="images/sign_svg.svg" alt="Sign - SVG"><div class="note">207KB</div></td>
+				<td><img src="images/aziz_svg.svg" alt="Aziz - SVG"><div class="note">53KB</div></td>
+				<td><img src="images/wings_svg.svg" alt="Wings - SVG"><div class="note">115KB</div></td>
+			</tr>
+			<tr>
+				<td class="label optimized">Optimized <span class="note">(you choose)</span></td>
+				<td><img src="images/sign_small.jpg" alt="Sign - Small"><div class="note">58KB</div></td>
+				<td><img src="images/aziz_small.jpg" alt="Aziz - Small"><div class="note">99KB</div></td>
+				<td><img src="images/wings_small.jpg" alt="Wings - Small"><div class="note">46KB</div></td>
+			</tr>
+		</tbody></table>
+
+
+	</body></html>
