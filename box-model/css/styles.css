@@ -1,0 +1,251 @@
+body{
+	background-image: url("https://wudesign.me/resources/html_tracing/");
+}
+h1{
+	text-align: center;
+	color:black;
+	font-family: 'Archivo Narrow', sans-serif; 
+	font-size: 84px;
+	margin-top:155px;
+	margin-left:0.3px;
+}
+h2{
+	text-align: center;
+	color:cyan;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 32px;
+	margin-top:-88px;
+}
+span{
+	color:cyan;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-style: italic;
+	font-size: 32px;
+}
+
+h3{
+	text-align: center;
+	color:cyan;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 42px;
+	margin-top:10px;
+}
+h4{
+	text-align: center;
+	color:cyan;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 21px;
+	text-align:left;
+	margin-top:-28px;
+	margin-left:580px;
+	margin-right:900px;
+}
+h5{
+	text-align: center;
+	color:cyan;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 21px;
+	text-align:left;
+	margin-top:20px;
+	margin-left:580px;
+	margin-right:900px;
+}
+h6{
+	text-align: center;
+	color:cyan;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 21px;
+	text-align:left;
+	margin-top:-482px;
+	margin-left:1065px;
+	margin-right:400px;
+}
+#h7{
+	text-align: center;
+	color:cyan;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 21px;
+	text-align:left;
+	margin-top:65px;
+	margin-left:1065px;
+	margin-right:400px; 
+}
+#h8{
+	text-align: center;
+	color:cyan;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 21px;
+	text-align:left;
+	margin-top:20px;
+	margin-left:1065px;
+	margin-right:400px; 
+}
+#h9{
+	text-align: center;
+	color:cyan;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 42px;
+	margin-top:40px;
+	margin-left:600px;
+	margin-right:600px;
+}
+
+p{
+	text-align: center;
+	color:cyan;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 19px;
+	text-align:left;
+	margin-top:-25px;
+	margin-left:370px;
+	margin-right:797px;
+}
+#p2{
+	text-align: center;
+	color:cyan;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 18px;
+	text-align:left;
+	margin-top:-30px;
+	margin-left:370px;
+	margin-right:799px;
+}
+#p3{
+	text-align: center;
+	color:cyan;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 19px;
+	text-align:left;
+	margin-top:-15px;
+	margin-left:370px;
+	margin-right:400px;
+}
+#p4{
+	text-align: center;
+	color:black;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 19px;
+	text-align:left;
+	margin-top:-20px;
+	margin-left:580px;
+	margin-right:900px;
+}
+#p5{
+	text-align: center;
+	color:black;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 19px;
+	text-align:left;
+	margin-top:-20px;
+	margin-left:580px;
+	margin-right:900px;
+}
+#p6{
+	text-align: center;
+	color:black;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 19px;
+	text-align:left;
+	margin-top:-45px;
+	margin-left:1065px;
+	margin-right:400px;
+}
+#p7{
+	text-align: center;
+	color:black;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 19px;
+	text-align:left;
+	margin-top: -10px;
+	margin-left:1065px;
+	margin-right:400px;
+}
+#p8{
+	text-align: center;
+	color:black;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 19px;
+	text-align:left;
+	margin-top:-15px;
+	margin-left:1065px;
+	margin-right:400px;
+}
+#p9{
+	text-align:center;
+	color:cyan;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size:28px;
+	text-align:left;
+	margin-left:501px;
+	margin-top:2px;
+	margin-right:483px;
+}
+#p10{
+	color:black;
+	margin-left:370px;
+	margin-top:15px;
+}
+
+img{
+	float:right;
+	margin-right:370px;
+	margin-top:-21px;
+}
+#img2{
+	float:left;
+	margin-top:-145px;
+	margin-left:370px;
+}
+#img3{
+	float:left;
+	margin-top:-145px;
+	margin-left:370px;
+}
+#img4{
+	float:left;
+	margin-top:-145px;
+	margin-left:370px;
+}
+#img5{
+	float:left;
+	margin-top:-490px;
+	margin-left:-85px;
+}
+#img6{
+	float:left;
+	margin-top:-308px;
+	margin-left:-85px;
+}
+#img7{
+	float:left;
+	margin-top:-135px;
+	margin-left:-85px;
+}
+
+
+
+#container_1{
+	background-color:white;
+	height: 350px;
+    }
+
+#container_2{
+	background-color:black;
+	height:650px;
+	margin-top:-9px;
+    }
+#container_3{
+	background-color:white;
+	height:650px;
+	margin-top:-11px;
+    }
+#container_4{
+	background-color:black;
+	height:450px;
+	margin-top:-55px;
+    }
+#container_5{
+	background-color:white;
+	height:100px;
+	margin-top:-15px;
+    }
