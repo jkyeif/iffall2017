@@ -1,0 +1,75 @@
+body{
+	align-content: center;
+	margin-left: 40px;
+}
+
+h1{
+	font-family: 'Mukta', sans-serif;
+	font-size: 36px;
+	color:orange;
+}
+
+#img2{
+	margin-left:200px;
+	margin-top:-200px;
+}
+
+#img3{
+	margin-left:400px;
+	margin-top:-200px;
+}
+
+#img4{
+	margin-left:700px;
+	margin-top:-400px;
+	margin-bottom:80px;
+}
+
+#img5{
+	margin-left:900px;
+	margin-top:-400px;
+	margin-bottom:90px;
+}
+
+
+
+
+#img6{
+	margin-top:-60px;
+	margin-bottom:5px;
+}
+
+#img7{
+	margin-left:200px;
+	margin-top:-300px;
+	margin-bottom:10px;
+}
+
+#img8{
+	margin-left:400px;
+	margin-top:-200px;
+	margin-bottom:50px;
+}
+
+#img9{
+	margin-left:700px;
+	margin-top:-200px;
+	margin-bottom:90px;
+}
+
+#img10{
+	margin-left:900px;
+	margin-top:-200px;
+	margin-bottom:90px;
+}
+
+
+
+
+
+
+
+
+
+
+
