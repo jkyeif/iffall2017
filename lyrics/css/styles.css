@@ -1,0 +1,15 @@
+h1,h2{
+	color: gold;
+	text-align: center;
+	font-family: 'Helvetica', sans-serif;
+	font-size:72px;
+}
+p {
+			color:black;
+			font-family: 'Helvetica', sans-serif;
+			text-align: center;
+			font-size: 46px;
+		}
+img {
+	margin-left: 1000px;
+}
