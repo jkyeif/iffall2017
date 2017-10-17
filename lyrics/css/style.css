@@ -1,0 +1,73 @@
+body{
+	background: url("http://moheban-ahlebeit.com/images/Gold-Wallpaper/Gold-Wallpaper-19.jpg");
+	background-size: cover;
+}
+section#section1{
+	background-color: black;
+	height:100%px;
+	width:100%;
+	margin: auto;
+	padding: 10px;
+}
+h1,h2{
+	color: white;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	font-weight: bold;
+	font-size: 40px;
+}
+h3{
+	font-family: 'Oswald', sans-serif;
+	color:red;
+	text-align:center;
+}
+p {
+			color:black;
+			font-family: 'Helvetica', sans-serif;
+			font-size:105%;
+			text-align:center;
+		}
+
+span{
+			color:red;
+			font-family: 'Lobster', cursive;
+			text-align:right;
+		}
+span.second_span{
+			color:black;
+			font-size: 120%;
+		}
+span.third_span{
+			color:black;
+			font-size: 150%
+		}
+span.fourth_span{
+			color:black;
+			font-size: 200%
+		}
+div{
+			text-align:center;
+		}
+div#div2{
+	text-align:center;
+	color:black;
+	font-family: 'Helvetica', sans-serif;
+	font-size:105%;
+}
+#img{
+	margin-right:800px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
