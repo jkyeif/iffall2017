@@ -1,0 +1,87 @@
+body{
+	background: url("http://thefader-res.cloudinary.com/images/w_760,c_limit,f_auto,q_auto:best/jacket-ben-taverniti-unravel-earrings-stylist-s-own_nitdih/cardi-b-bodak-yellow-radio-play-national-hit.jpg");
+	background-size: cover;
+}
+section#section1{
+	height:100%px;
+	width:100%;
+	margin: auto;
+	padding: 10px;
+}
+h1,h2{
+	color: yellow;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	font-weight: bold;
+	font-size: 70px;
+}
+h3{
+	font-family: 'Oswald', sans-serif;
+	color:yellow;
+	text-align:center;
+}
+p {
+			color:gold;
+			font-family: 'Helvetica', sans-serif;
+			font-size:105%;
+			text-align:center;
+		}
+
+span{
+			color:red;
+			font-family: 'Lobster', cursive;
+			text-align:right;
+   			stroke: 1px black;
+   			text-shadow:
+     			 3px 3px 0 #000,
+     			 -1px -1px 0 #000,  
+      			1px -1px 0 #000,
+      			-1px 1px 0 #000,
+       			1px 1px 0 #000;
+       		font-size: 24px;
+		}
+span.second_span{
+			color:orange;
+			font-size: 120%;
+		}
+span.third_span{
+			color:orange;
+			font-size: 150%
+		}
+span.fourth_span{
+			color:orange;
+			font-size: 200%
+		}
+div{
+			text-align:center;
+		}
+div#div2{
+	text-align:center;
+	color:gold;
+	font-family: 'Helvetica', sans-serif;
+	font-size:105%;
+}
+#img{
+	margin-right: 80%;
+	padding: 10px;
+	opacity: 0.7;
+}
+div.player{
+		padding: 10px;
+		margin-right: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
