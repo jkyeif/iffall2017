@@ -1,0 +1,90 @@
+div.text{
+	position: absolute;
+	font-family: 'Alfa Slab One', cursive;
+	left:150px;
+	top:80px;
+	z-index: 100;
+}
+section.quote{
+	font-size:54px;
+	color:gold;
+	width:450px;
+	stroke: 2px;
+   		text-shadow:
+     	 3px 3px 0 #a32704,
+     	-1px -1px 0 #a32704,  
+      	1px -1px 0 #a32704,
+      	-1px 1px 0 #a32704,
+       	1px 1px 0 #a32704;
+}
+section.source{
+	color:gold;
+	position: absolute;
+	font-family: 'Alfa Slab One', cursive;
+	left:350px;
+	top:300px;
+	z-index: 100;
+}
+div.background{
+	float:left;
+	margin:0;
+	z-index:0;
+}
+img{
+	min-height: 100%;
+    min-width: 1156px;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 0;
+    float: right;
+}
+a.fullButton{
+	display:block;
+	position: absolute;
+	top:0;
+	bottom: 0;
+	right:0;
+	left: 0;
+	z-index: 0;
+}
+@media (max-width: 1300px){
+	div.text{
+		left:70px;
+	}
+}
+
+@media (max-width: 1300px){
+	section.quote{
+		font-size:70px;
+		width:400px;
+		padding-bottom: 30px;
+	}
+}
+@media(max-width: 1300px){
+	section.source{
+		font-size:20px;
+		top:650px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
